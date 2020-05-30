@@ -6,7 +6,7 @@ Una serie de ejercicios para repasar/practicar lo que van aprendiendo en el boot
 
 ## Como empezar:
 
-Haz un fork del repositorio, clona el fork a tu computadora y comienza a trabajar sobre el mismo. Recomiendo que trabajen con branches de GIT para resolver cada ejercicio, y al terminar crear un Pull Request hacia su mismo repositorio en GitHub. Si quieren comentarios sobre el ejercicio, pueden mencionarme (@osiux) en el Pull Request y le doy una mirada.
+Haz un fork del repositorio, clona el fork a tu computadora y comienza a trabajar sobre el mismo. Recomiendo que trabajen con branches de GIT para resolver cada ejercicio, y al terminar crear un Pull Request hacia su mismo repositorio en GitHub. Si quieren comentarios sobre el ejercicio, pueden mencionarme ([@osiux](https://github.com/osiux)) en el Pull Request y le doy una mirada.
 
 ## Ejercicios
 
