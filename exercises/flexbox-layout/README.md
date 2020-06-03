@@ -1,6 +1,6 @@
 # Flexbox Layout
 
-Modificando solamente `css/style.css`, hacer que el resultado del HTML se vea similar al ejemplo ([movil](example-movil.png), [desktop](example-desktop.png)) proporcionado.
+Modificando solamente `css/style.css`, hacer que el resultado del HTML se vea similar al ejemplo ([movil](example-mobile.png), [desktop](example-desktop.png)) proporcionado.
 
 ## Notas
 

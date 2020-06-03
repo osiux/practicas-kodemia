@@ -16,6 +16,7 @@ Cada ejercicio tiene las instrucciones de lo que hay que realizar en el Readme d
 
 - [Flexbox](exercises/flexbox/)
 - [Flexbox Layout](exercises/flexbox-layout/)
+- [Bootstrap](exercises/bootstrap/)
 
 ## ¿Por qué?
 
