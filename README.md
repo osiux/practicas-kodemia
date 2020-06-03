@@ -15,6 +15,7 @@ Los ejercicios tienen un poco de orden relacionado a los temas que veo que lleva
 Cada ejercicio tiene las instrucciones de lo que hay que realizar en el Readme de la carpeta. Ahi mismo pueden encontrar un enlace a un CodeSandbox al que pueden hacer fork para trabajar sus cambios ahi. En algunos casos también hay una imagen de referencia de lo que se espera como resultado final.
 
 - [Flexbox](exercises/flexbox/)
+- [Flexbox Layout](exercises/flexbox-layout/)
 
 ## ¿Por qué?
 
