@@ -20,4 +20,4 @@ Cada ejercicio tiene las instrucciones de lo que hay que realizar en el Readme d
 
 ## ¿Por qué?
 
-Mi [esposa](https://github.com/melscastillo) está aprendiendo a programar y una de las cosas que, en mi opinión, hacen falta, es hacer más ejercicios con los temas que van viendo cada día.
+Mi [esposa](https://github.com/melscastillo) está aprendiendo a programar y una de las cosas que, en mi opinión ayuda mucho, es practicar, practicar, practicar.
