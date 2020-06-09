@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>JS Strings</title>
+    </head>
+    <body>
+        <button id="btn">Verificar</button>
+        <script src="js/main.js"></script>
+        <script>
+            let task = 1;
+            const check = (value, name, expected) => {
+                if (typeof value === "undefined" || value !== expected) {
+                    throw new Error(
+                        `Tarea ${task} incompleta: El valor de "${name}" es incorrecto.`,
+                    );
+                }
+                task++;
+            };
+            document.getElementById("btn").addEventListener("click", () => {
+                try {
+                    check(
+                        myString,
+                        "myString",
+                        "Salem es el mejor gato del mundo.",
+                    );
+                    check(stringLength, "stringLength", 33);
+                    check(catIsAtPosition, "catIsAtPosition", 18);
+                    check(
+                        myNewString,
+                        "myNewString",
+                        "Salem es el mejor michi del mundo.",
+                    );
+
+                    alert("Todo correcto!");
+                } catch ({ message }) {
+                    if (message.indexOf("is not defined") !== -1) {
+                        const [varName] = message.split(" ", 1);
+                        alert(
+                            `Tarea ${task} incompleta: Variable "${varName}" no está definida.`,
+                        );
+                    } else {
+                        alert(message);
+                    }
+                }
+                task = 1;
+            });
+        </script>
+    </body>
+</html>
